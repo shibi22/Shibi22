@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h2 align="left">BCA Digital Technology Student | My journey began with mastering HTML and CSS—the foundation of every web page. Aspiring to create seamless user experiences,Let’s connect and explore exciting opportunities!</h2>
+<h2 align="left">Results-driven Software Developer with expertise in React, Vite, TypeScript, Java, MySQL, and AI-driven chatbot development. Adept at building scalable, high-performance web applications. Proven experience in freelance service platforms and AI automation. Strong analytical and problem-solving skills with a passion for innovation. Seeking an opportunity to leverage my technical expertise to develop impactful digital solutions.</h2>
 
 ###
 
